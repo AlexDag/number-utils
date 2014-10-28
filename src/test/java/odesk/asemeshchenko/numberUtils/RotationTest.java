@@ -2,7 +2,6 @@ package odesk.asemeshchenko.numberUtils;
 
 import static org.junit.Assert.assertEquals;
 import odesk.asemeshchenko.numberUtils.RotatePosition;
-
 import org.junit.Test;
 
 public class RotationTest {
