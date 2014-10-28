@@ -7,7 +7,7 @@ utils for rotate position of array items
 1.Clone repo at you PC - 
 	git clone https://github.com/AlexDag/number-utils.git
 
-2. go to ../number-utils
+2.go to ../number-utils
 
 3.run:"mvn install"
 	P.S.  Need to use JDK 7+
