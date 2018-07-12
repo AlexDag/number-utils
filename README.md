@@ -25,3 +25,9 @@ utils for rotate position of array items
 8.try to change some parameters - shift and string of numbers
 21
 
+s
+s
+s
+s
+s
+
