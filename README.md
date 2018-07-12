@@ -24,3 +24,4 @@ utils for rotate position of array items
 
 8.try to change some parameters - shift and string of numbers
 
+8..2
